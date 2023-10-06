@@ -16,3 +16,8 @@ FeH = metallicity of the host star, ratio of metals to non-metals. 0.0 is solar 
 source = DOI link to publication data comes from. In cases where objects are characterised in our work, object labelled with "this work", and also labelled in a suitable manner when from the Gaia binary_masses table.
 
 For all columns of the file, p_"column" and m_"column" denote the uncertainties on the measurement, with "p" the upper uncertainty to be added to create the upper limit, and "m" the lower uncertainty to be removed from the value to find lower limit.
+
+
+
+[Update 6 October 2023]
+Catalogue updated, to file with date appended in name. Going forward, the most up-to-date version will be the most recent, but all previous versions will remain to see evolution. The original catalogue, BD_catalogue.csv, was used in creation of the journal publication.
