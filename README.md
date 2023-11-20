@@ -11,7 +11,7 @@ period = time taken for BD to complete an orbit around host. Units of days.
 ecc= eccentricity, a measure of how elliptical the orbit is. Dimensionless parameter.
 Mstar = mass of the host star. Units of Solar masses
 Teff = effective temperature of the host star. Units of Kelvin.
-logg = The base-10 logarithm of the surface gravity of the host star. Units of cm s-2
+logg = The base-10 logarithm of the surface gravity of the host star. Units of cm s-2.
 FeH = metallicity of the host star, ratio of metals to non-metals. 0.0 is solar metallicity.
 source = DOI link to publication data comes from. In cases where objects are characterised in our work, object labelled with "this work", and also labelled in a suitable manner when from the Gaia binary_masses table.
 
@@ -21,3 +21,6 @@ For all columns of the file, p_"column" and m_"column" denote the uncertainties 
 
 [Update 6 October 2023]
 Catalogue updated, to file with date appended in name. Going forward, the most up-to-date version will be the most recent, but all previous versions will remain to see evolution. The original catalogue, BD_catalogue.csv, was used in creation of the journal publication.
+
+[Update 20 November 2023]
+Added some more recently discovered objects with masses in the BD mass range.
